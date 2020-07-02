@@ -3,9 +3,9 @@ So these are some of my programs.
 
 I also made a couple of programs to act like c++ libraries:
 
--simpleFileIo
+- simpleFileIo
 
--randomLibrary
+- randomLibrary
 
 --------
 
