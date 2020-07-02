@@ -1,5 +1,5 @@
 # myPrograms
-So these are some of my programs.
+So these are some of my programs - Some probably won't work.
 
 I also made a couple of programs to act like c++ libraries:
 
