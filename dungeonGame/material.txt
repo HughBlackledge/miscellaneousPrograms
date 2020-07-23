@@ -1,0 +1,75 @@
+steel
+10
+10
+iron
+7
+7
+bronze
+5
+5
+copper
+3
+3
+silver
+3
+3
+gold
+3
+3
+orchalicum
+12
+12
+mithril
+15
+15
+wooden
+2
+2
+electrum
+4
+4
+invar
+7
+7
+aluminium
+5
+5
+pig iron
+4
+4
+ice
+3
+3
+soldified nothing
+20
+20
+steel scale mail
+
+
+iron scale mail
+
+
+bronze scale mail
+
+
+copper scale mail
+
+
+silver scale mail
+
+
+gold scale mail
+
+
+orchalicum scale mail
+
+
+wooden scale mail
+
+
+woven
+4
+4
+leather
+4
+4

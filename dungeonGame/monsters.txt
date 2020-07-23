@@ -1,0 +1,8 @@
+skeleton
+zombie
+elderitch horror
+ghost
+mutant spider
+ent
+mimic
+elemental

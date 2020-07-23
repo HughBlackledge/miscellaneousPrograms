@@ -1,0 +1,25 @@
+steel
+iron
+bronze
+copper
+silver
+gold
+orchalicum
+mithril
+wooden
+electrum
+invar
+aluminium
+pig iron
+ice
+soldified nothing
+steel scale mail
+iron scale mail
+bronze scale mail
+copper scale mail
+silver scale mail
+gold scale mail
+orchalicum scale mail
+wooden scale mail
+woven
+leather

@@ -1,0 +1,13 @@
+sword
+helmet
+chestplate
+greaves
+boots
+gauntlets
+stick
+bowl
+rock
+pendent
+anklet
+amulet
+hat
